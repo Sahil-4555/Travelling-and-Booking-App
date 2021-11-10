@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618139418871",
+    "project_id": "travelling-booking",
+    "storage_bucket": "travelling-booking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618139418871:android:d9f2957b9c0574d90193f2",
+        "android_client_info": {
+          "package_name": "com.example.travelling_booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618139418871-336tiojfcb9f172qe4ipufmbl7v1p76q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC890frlp0Wy3zZaDdT-Bcpqn_InO9Asgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618139418871-336tiojfcb9f172qe4ipufmbl7v1p76q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
